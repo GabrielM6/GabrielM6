@@ -1,7 +1,7 @@
 
 # Gabriel Moreno 👨‍💻
 
-Desenvolvedor frontend formado. Tenho 22 anos e muito interesse em tecnologias web modernas. Busco aplicar meus
+Desenvolvedor frontend formado. Tenho 23 anos e muito interesse em tecnologias web modernas. Busco aplicar meus
 conhecimentos em projetos desafiadores, contribuindo para a
 criação de interfaces intuitivas e responsivas.
 
