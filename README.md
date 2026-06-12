@@ -1,9 +1,7 @@
 
 # Gabriel Moreno 👨‍💻
 
-Desenvolvedor frontend formado. Tenho 23 anos e muito interesse em tecnologias web modernas. Busco aplicar meus
-conhecimentos em projetos desafiadores, contribuindo para a
-criação de interfaces intuitivas e responsivas.
+Desenvolvedor Full Stack que transforma ideias em aplicações web completas. Trabalho com Angular, Django, Python e automações para desenvolver sistemas, APIs e integrações com foco em desempenho, escalabilidade e resultados para o negócio.
 
 ## Tecnologias 🚀
 - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
